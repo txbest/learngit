@@ -8,3 +8,4 @@ learn to create a new branch
 learn to create a new branch
 creating a new branch is quick and simple
 >>>>>>> feature1
+merge
